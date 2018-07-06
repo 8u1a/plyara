@@ -1,6 +1,9 @@
 plyara
 ======
 
+# NOTE: THIS PROJECT HAS MOVED TO PLYARA/PLYARA
+## https://github.com/plyara/plyara
+
 tl;dr: Parse Yara rules into a dictionary representation.
 
 Plyara is a script that lexes and parses a file consisting of one more Yara rules into a python dictionary representation.  The goal of this tool is to make it easier to perform bulk operations or transformations of large sets of Yara rules, such as extracting indicators, updating attributes, and analyzing a corpus.  Other applications include linters and dependency checkers.
