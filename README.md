@@ -2,7 +2,7 @@ plyara
 ======
 
 # NOTE: THIS PROJECT HAS MOVED TO PLYARA/PLYARA
-## https://github.com/plyara/plyara
+## Please go to https://github.com/plyara/plyara
 
 tl;dr: Parse Yara rules into a dictionary representation.
 
