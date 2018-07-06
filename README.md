@@ -1,4 +1,4 @@
-plyara
+plyara (DEPRECATED)
 ======
 
 # NOTE: THIS PROJECT HAS MOVED TO PLYARA/PLYARA
